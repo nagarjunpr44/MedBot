@@ -1,0 +1,12 @@
+[project]
+name = "medbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.117.1",
+    "langchain-pinecone>=0.2.12",
+    "sentence-transformers>=5.1.1",
+    "uvicorn>=0.37.0",
+]
