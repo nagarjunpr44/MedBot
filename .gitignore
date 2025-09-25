@@ -71,3 +71,6 @@ coverage/
 # Cache
 .cache/
 .parcel-cache/
+
+# Research
+research/
