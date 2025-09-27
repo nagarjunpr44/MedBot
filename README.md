@@ -90,10 +90,6 @@ The system uses `sentence-transformers/all-MiniLM-L6-v2` which produces 384-dime
 - **Search Type**: Similarity search
 - **Vector Database**: Pinecone
 
-## API Documentation
-
-Once the application is running, visit `http://localhost:8000/docs` for interactive API documentation.
-
 
 
 ## Disclaimer
